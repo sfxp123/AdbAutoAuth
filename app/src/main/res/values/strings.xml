@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB 自动授权</string>
+    <string name="service_label">ADB 自动授权</string>
+    <string name="service_desc">监听系统的 ADB 调试授权弹窗，自动勾选“始终允许使用这台计算机进行调试”并点击“允许”。</string>
+</resources>
